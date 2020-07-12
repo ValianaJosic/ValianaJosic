@@ -1,6 +1,6 @@
 # Hi, I'm Valiana ![Alt Text](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/emojidex/112/female-technologist-type-3_1f469-1f3fc-200d-1f4bb.png)
 
-[![Alt Text](https://www.valianajosic.com/static/media/compwide1.6551faff.jpeg)](https://www.valianajosic.com/)
+[![Alt Text](C:\Users\Valia\OneDrive\Desktop\vali_portfolio\src\assets\images)](https://www.valianajosic.com/)
 
 >I worked in hospitality for nine years and entered a coding bootcamp, Wyncode, wanting to create a better future for my daughter and I.
 >
