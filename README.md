@@ -2,8 +2,8 @@
 
 [![Alt Text](https://www.valianajosic.com/static/media/compwide1.6551faff.jpeg)](https://www.valianajosic.com/)
 
->**I worked in hospitality for nine years and entered a coding bootcamp, Wyncode, wanting to create a better future for my daughter and I.**
+>**Web Developer with 9 years hospitality and administration background.**
 >
->**Hispanic women are considered minorities in the tech field so I wanted to break these norms and create more possibilities for our future. Now as a Web Developer I've already shown my daughter you can do anything with persistence and hard work.**
+>**Experience with HTML, CSS, Javascript, React, Ruby, and Ruby on Rails. Skills include Front End Web development, customer support, and research.**
 >
 >**I strongly believe in using tech for good by implementing solutions to improve our society and environment in a positive direction.**
